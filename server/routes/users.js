@@ -1,5 +1,4 @@
 const router = require("express").Router();
-import Profile from "./../../client/src/pages/profile/Profile";
 const bcrypt = require("bcrypt");
 const User = require("../models/User");
 
